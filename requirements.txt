@@ -1,0 +1,12 @@
+# Telegram Bot API
+pyrogram
+tgcrypto
+
+# PDF Processing
+pymupdf  # Alias: fitz
+
+# File Handling
+zipfile36  # For handling ZIP files
+
+# Environment Variables (Optional)
+python-dotenv
