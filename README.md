@@ -12,6 +12,13 @@ now just install all the requirements
 
 `pip install -r requirements.txt`
 
+Simple edit the .env.sample file to .env
+
+`mv .env.sample .env`
+
+and then just add all the credentials required in the file
+`you can get those creds from my.telegram.org and telegram bot "botfather"`
+
 now just the bot in background
 
 `python main.py`
